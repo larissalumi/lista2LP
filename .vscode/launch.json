@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/ex6-maior_numero_no_vetor",
-      "program": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/ex6-maior_numero_no_vetor/build/Debug/outDebug",
+      "cwd": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/ex7-menor_numero_no_vetor",
+      "program": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/ex7-menor_numero_no_vetor/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
