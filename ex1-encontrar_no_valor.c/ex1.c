@@ -11,12 +11,12 @@
     for(int i = 0; i < 19; i++){
         if(vetor[i] == x && exist == 0){
             printf("O seu numero existe em:\n   %d  |  ", i+1);
-            exist++;
+            exist = 1;
             continue;
         }
         if(vetor[i] == x){
             printf("%d  |  ", i+1);
-            exist++;
+            exist = 1;
         }
     }
     if(exist==0){
