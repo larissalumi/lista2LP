@@ -4,10 +4,10 @@
 #include <stdio.h>
 
 int main () {
-    int matriz[5][5], n, existe = 0;
+    int matriz[20][20], n, existe = 0;
 
-    for(int i = 0; i < 5; i++){
-        for(int j = 0; j < 5; j++){
+    for(int i = 0; i < 20; i++){
+        for(int j = 0; j < 20; j++){
             printf("Digite o numero na posicao %dX%d: ", i, j);
             scanf("%d", &matriz[i][j]);
         }
@@ -17,8 +17,8 @@ int main () {
     scanf("%d", &n);
 
     printf("Encontrando as posicoes com o numero %d...\n", n);
-    for(int i = 0; i < 5; i++){
-        for(int j = 0; j < 5; j++){
+    for(int i = 0; i < 20; i++){
+        for(int j = 0; j < 20; j++){
             if(matriz[i][j] == n){
                 printf("%dX%d\n", i, j);
                 existe = 1;
