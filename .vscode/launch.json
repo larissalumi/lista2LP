@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/Matrizes/ex2-encontrar_primeiro_na_matriz",
-      "program": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/Matrizes/ex2-encontrar_primeiro_na_matriz/build/Debug/outDebug",
+      "cwd": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/Matrizes/ex3-matriz_identidade",
+      "program": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/Matrizes/ex3-matriz_identidade/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
