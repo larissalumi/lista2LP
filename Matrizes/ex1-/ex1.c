@@ -4,29 +4,29 @@
 #include <stdio.h>
 
 int main () {
-    int matriz[20][20], n, existe = 0;
+    int m[20][20], x, existe = 0;
 
     for(int i = 0; i < 20; i++){
         for(int j = 0; j < 20; j++){
             printf("Digite o numero na posicao %dX%d: ", i, j);
-            scanf("%d", &matriz[i][j]);
+            scanf("%d", &m[i][j]);
         }
     }
 
     printf("Digite o numero que voce deseja encontrar: ");
-    scanf("%d", &n);
+    scanf("%d", &x);
 
-    printf("Encontrando as posicoes com o numero %d...\n", n);
+    printf("Encontrando as posicoes com o numero %d...\n", x);
     for(int i = 0; i < 20; i++){
         for(int j = 0; j < 20; j++){
-            if(matriz[i][j] == n){
+            if(m[i][j] == x){
                 printf("%dX%d\n", i, j);
                 existe = 1;
             }
         }
     }
     if(existe != 1){
-        printf("O numero %d nao foi encontrado.", n);
+        printf("O numero %d nao foi encontrado.", x);
     }
     return 0;
 }
