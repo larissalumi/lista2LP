@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/ex8-soma_e_media_dos_numeros",
-      "program": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/ex8-soma_e_media_dos_numeros/build/Debug/outDebug",
+      "cwd": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/Matrizes/ex1-",
+      "program": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/Matrizes/ex1-/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
