@@ -6,7 +6,7 @@ Imprimir a matriz no final.
 */
 
 #include <stdio.h>
-#define NUM 3
+#define NUM 8
 
 int main() {
     int matriz[NUM][NUM];
