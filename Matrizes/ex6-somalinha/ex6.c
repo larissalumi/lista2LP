@@ -29,7 +29,6 @@ int main () {
     //total
     for(int i = 0; i < 4; i++){
         total += somalinha[i];
-        printf("%d\n", somalinha[i]);
     }
 
     //display:
