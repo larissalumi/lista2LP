@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/Strings/ex2-num_vogais",
-      "program": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/Strings/ex2-num_vogais/build/Debug/outDebug",
+      "cwd": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/Strings/ex3-num_consoantes",
+      "program": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/Strings/ex3-num_consoantes/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
