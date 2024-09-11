@@ -23,4 +23,6 @@ int main(){
         nTermo = fibo(i);
         printf("%d   ", nTermo);
     }
+    
+    return 0;
 }

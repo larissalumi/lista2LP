@@ -23,4 +23,6 @@ int main() {
 
     total = expo(base, expoente);
     printf("%d elevado a %d e igual a %d", base, expoente, total);
+
+    return 0;
 }

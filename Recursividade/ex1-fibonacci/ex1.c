@@ -22,4 +22,6 @@ int main(){
     nTermo = fibo(n);
 
     printf("O %do termo e %d.\n", n, nTermo);
+
+    return 0;
 }
