@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/Structs/ex1-alunos",
-      "program": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/Structs/ex1-alunos/build/Debug/outDebug",
+      "cwd": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/Recursividade/ex1-fibonacci",
+      "program": "c:/Users/Larissa Lumi/OneDrive/Área de Trabalho/Programar/Projetos_C/Roteiro P2/Recursividade/ex1-fibonacci/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
