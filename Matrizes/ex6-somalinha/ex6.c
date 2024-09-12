@@ -33,4 +33,5 @@ int main () {
 
     //display:
     printf("Total: %d", total);
+    return 0;
 }
